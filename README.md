@@ -1,6 +1,6 @@
 # 🏅 Olympics Dashboard Project
 
-Another Power Bi project! This one was very fun and proabbly the cleanest out of them so far. It also took me a good amount of time to complete! This dashboard is for the 2024 Olympics with a kaggle dataset - however, when this was being made, the Olympics were on-going and the dataset being used was consistently being updated. The Python file, *app.py* covers that and makes this dashboard entirely updated! The rest of the details will be explained below!
+Another Power Bi project! This one was very fun and probably the cleanest out of them so far. It also took me a good amount of time to complete! This dashboard is for the 2024 Olympics with a Kaggle dataset - however, when this was being made, the Olympics were ongoing and the dataset being used was consistently being updated. The Python file, *app.py* covers that and makes this dashboard entirely updated! The rest of the details will be explained below!
 
 Side note: I've attached images at the end in case you prefer not opening the .pbix file - our school accounts haven't permitted us to use Power Bi's upload service otherwise it would be up there, sorry!!
 

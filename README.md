@@ -1,7 +1,3 @@
-Here’s the updated README with Python, Seaborn, Pandas, Matplotlib, and Plotly incorporated!
-
----
-
 # 🏅 Olympics Dashboard Project
 
 Another Power BI project! This one was very fun and probably the cleanest out of them so far. It also took me a good amount of time to complete! This dashboard is for the 2024 Olympics with a Kaggle dataset — however, when this was being made, the Olympics were ongoing, and the dataset being used was consistently being updated. The Python file, *app.py*, covers that and makes this dashboard entirely updated! The rest of the details will be explained below!

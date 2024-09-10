@@ -81,7 +81,3 @@ Here are some screenshots from the dashboard:
   <img src="image-3.png" alt="Historical Page" style="width: 40%; height: auto;"/>
 
 </div>
-
----
-
-This version includes all the libraries you used and details about the Python integration with Power BI. Let me know if you'd like to tweak anything further!

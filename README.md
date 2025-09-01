@@ -1,8 +1,8 @@
 # 🏅 Olympics Dashboard Project
 
-Another Power BI project! This one was very fun and probably the cleanest out of them so far. It also took me a good amount of time to complete! This dashboard is for the 2024 Olympics with a Kaggle dataset — however, when this was being made, the Olympics were ongoing, and the dataset being used was consistently being updated. The Python file, *app.py*, covers that and makes this dashboard entirely updated! The rest of the details will be explained below!
+Another Power BI project! This one was very fun and probably the cleanest out of them so far. It also took me a good amount of time to complete! This dashboard is for the 2024 Olympics with a Kaggle dataset - however, when this was being made, the Olympics were ongoing, and the dataset being used was consistently being updated. The Python file, *app.py*, covers that and makes this dashboard entirely updated! The rest of the details will be explained below!
 
-Side note: I've attached images at the end in case you prefer not opening the `.pbix` file — our school accounts haven't permitted us to use Power BI's upload service otherwise it would be up there, sorry!!
+Side note: I've attached images at the end in case you prefer not opening the `.pbix` file - our school accounts haven't permitted us to use Power BI's upload service otherwise it would be up there, sorry!!
 
 ## 🛠️ Tools and Technologies Used
 - 📊 **Kaggle**: Source for continuously updated Olympic data.
@@ -55,8 +55,7 @@ To explore the project, you will need:
 1. 💻 **Power BI Desktop**: Open the `.pbix` file in Power BI to interact with the visualizations.
 2. 🐍 **Python (optional)**: If you wish to modify or update the dataset manually using Python, ensure you have the required dependencies installed:
    - `pandas`, `os`, `matplotlib`, `seaborn`, `plotly`, `numpy`
-
-   **Note**: In Power BI, the Python environment must have these libraries installed for the embedded visuals to work correctly.
+In Power BI, the Python environment must have these libraries installed for the embedded visuals to work correctly.
 
 ## 📧 Contact
 Feel free to reach out if you have any questions or feedback! 😊
